@@ -1,0 +1,23 @@
+header {
+    font-size: 15px;
+}
+
+h1 {
+    color:goldenrod;
+    font-family: sans-serif;
+}
+
+@media (min-width: 992px) {
+  header {
+
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+section#about {
+	background:url(../img/bg.jpg) no-repeat;
+	background-size:cover;
+}
