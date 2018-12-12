@@ -34,11 +34,11 @@ var paths = {
     dest: 'dist/assets/img/'
   },
   pages: {
-    src: 'src/views/pages/*.php',
+    src: 'src/application/views/pages/*.php',
     dest: 'dist/application/views/pages/'
   },
   templates: {
-    src: 'src/views/templates/*.php',
+    src: 'src/application/views/templates/*.php',
     dest: 'dist/application/views/templates/'
   }
 };
